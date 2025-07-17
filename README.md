@@ -97,10 +97,5 @@ This project is for academic and learning purposes.
 
 ---
 
-Let me know if you want to:
-- Add images/screenshots
-- Convert it for LinkedIn post
-- Host it on GitHub Pages or Streamlit
 
-I'll help you with that too.
 
